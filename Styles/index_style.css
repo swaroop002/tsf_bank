@@ -1,0 +1,56 @@
+#nav_bar{
+    background-color: rgb(73, 82, 182);
+    box-shadow: rgba(0, 0, 0, 0.158) 0px 5px 5px;
+}
+#head{
+    font-size: 21px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    text-shadow: black 2px 2px 2px;
+}
+body{
+    background: url("../Soures/template.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+.xdbtn{
+    position: fixed;
+    top: 30%;
+    left: 40%;
+    text-align: start;
+
+    width: 25%;
+    height: 50%;
+    margin-top:-1%;
+    border: 3px solid rgba(0, 0, 0, 0.993);
+    background-color: rgba(117, 117, 117, 0.292);
+    border-radius: 5%;
+}
+.box{
+    position: fixed;
+    top: 55%;
+    left: 45%;
+    width: 15%;
+
+}
+#butt1{
+    background-color: rgb(73, 82, 182);
+    border-color:rgb(73, 82, 182);
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(236, 232, 232);
+}
+#text{
+
+    position: inherit;
+    font-size: 190%;
+    top: 35%;
+    left: 42%;
+}
+#butt2 {
+    background-color: rgb(73, 82, 182);
+    border-color: rgb(73, 82, 182);
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(236, 232, 232);
+}

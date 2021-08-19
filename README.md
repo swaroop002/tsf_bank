@@ -1,5 +1,4 @@
-# tsf_bank
-#Dynamic Website with Database Connection
+# Dynamic Website with Database Connection
 The website is hosted on : https://waxing-arch.000webhostapp.com/
 Do have a look
 To deploy this project on your system all you need is php v5+;
